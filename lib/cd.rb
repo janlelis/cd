@@ -1,7 +1,8 @@
 require 'fileutils'
 
 module Cd
-  VERSION = '1.0.0'
+  VERSION = '1.0.1'.freeze
+
   extend self
 
   def cd(path = nil)
