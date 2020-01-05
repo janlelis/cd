@@ -1,4 +1,4 @@
-# cd [![[version]](https://badge.fury.io/rb/cd.svg)](http://badge.fury.io/rb/cd)
+# cd [![[version]](https://badge.fury.io/rb/cd.svg)](https://badge.fury.io/rb/cd)
 
 Enhanced cd command for the Ruby console.
 
@@ -24,4 +24,4 @@ cd 'some/dir' # change to that directory and list its content
 
 ## MIT License
 
-Copyright (C) 2015 Jan Lelis <http://janlelis.com>. Released under the MIT license.
+Copyright (C) 2015 Jan Lelis <https://janlelis.com>. Released under the MIT license.

@@ -6,9 +6,9 @@ Gem::Specification.new do |gem|
   gem.name          = "cd"
   gem.version       = Cd::VERSION
   gem.summary       = "Enhanced cd command for the Ruby console"
-  gem.description   = "Enhanced cd command for the Ruby console."
+  gem.description   = "Enhanced cd command for the Ruby console. Supports changing to previous directory using `-cd` and to the user's home directory with `~cd`."
   gem.authors       = ["Jan Lelis"]
-  gem.email         = "mail@janlelis.de"
+  gem.email         = ["hi@ruby.consulting"]
   gem.homepage      = "https://github.com/janlelis/cd"
   gem.license       = "MIT"
 
